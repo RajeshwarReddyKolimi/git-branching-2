@@ -1,1 +1,1 @@
-Initial text changed by featureA.
+Initial text changed by featureB after conflict.
